@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Morocco",2M Monde
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 
-#EXTINF:-1 tvg-id="2MInternationa2.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Morocco",2M Monde F
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8?1jhnba
+#EXTINF:-1 tvg-id="2MInternationa2.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Morocco",2M Monde 1
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8
 
 #EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/2Y4qJAk.jpg" group-title="Morocco",5 mbc (360p)
 https://shls-masr2-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
